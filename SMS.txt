@@ -1,0 +1,9 @@
+123456789:
+	1. 09 24 El kell menni a gyerekért az uszodába.
+	2. 11 45 Szia, mikor jössz?
+	3. 12 34 qwe asd
+302145689:
+	1. 13 11 Hozd el a mintás pulcsimat!
+456721456:
+	1. 12 34 qwe asd
+	2. 16 25 Kész az ebéd!
